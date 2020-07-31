@@ -1,6 +1,6 @@
 # Predicting-Movie-Success
 
-Over the past decade, Bollywood cinema has witnessed exponential growth in terms of movies released, number of people emploayed and profits earned. 
+Over the past decade, Bollywood cinema has witnessed exponential growth in terms of movies released, number of people employed and profits earned. 
 
 Hence a model to predict whether a movie will be a success or not in the box office before release will prove to be highly useful to everybody involved.
 
